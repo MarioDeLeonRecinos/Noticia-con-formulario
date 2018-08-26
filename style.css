@@ -1,0 +1,101 @@
+*{
+    padding-left: 5em;
+    padding-right: 5em;
+    font-family: 'Fira Sans', sans-serif;
+    text-align: justify;
+}
+hr{
+    padding-left: 0em;
+    padding-right: 0em;
+}
+
+a{
+    padding-left: 0em;
+    padding-right: 0em;
+}
+
+h3{
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+}
+strong{
+    padding-left: 2.8em;
+    padding-right: 1.7em;
+}
+
+em{
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+}
+
+hgroup > h1, h2 {
+    font-size: 3em;
+    margin: 0;
+}
+
+#header{
+    padding-left: 2.8em;
+    padding-right: 1.7em;
+    color: rgb(150,75,150);
+
+}
+
+#fecha{
+    color: rgb(150, 50, 50);
+}
+b{
+    padding-left: 0em;
+    padding-right: 0em;
+}
+
+.titulo{
+    color:teal;
+}
+
+aside {
+    padding-left: 0em;
+    padding-right: 0em;
+    width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+}
+
+p {
+    padding-left: 0em;
+    padding-right: 0em;
+    font-size: 1.2em;
+    color: #29627e;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.crumbs ol {
+    padding-left: 0em;
+    padding-right: 0em;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.crumb {
+    padding-left: 0em;
+    padding-right: 0em;
+    display: inline-block;
+}
+
+.crumb a::after {
+    padding-left: 0em;
+    padding-right: 0em;
+    display: inline-block;
+    color: #000;
+    content: '>';
+    font-size: 80%;
+    font-weight: bold;
+    padding: 0 3px;
+}
